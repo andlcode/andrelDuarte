@@ -10,11 +10,22 @@
 ### About me
 
 I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Programming, Innovation, Business Networking, <br>
-Linux System (I LOVE UBUNTU), Star Wars.
+Linux System (I LOVE UBUNTU) and Star Wars.
+<br>
 
 ### Technologies
-HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
-
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+  <li>ES6</li>
+  <li>Typescript</li>
+  <li>NodeJS</li>
+  <li>ReactJS</li>
+  <li>React Native</li>
+  <li>Java</li>
+</ul>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelDuarte&layout=compact)](https://github.com/andrelDuarte)
 
 
@@ -27,4 +38,5 @@ HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
  
   </details>
   
-  
+  Made with :heart: and JavaScript.
+  Thanks! :heart:
