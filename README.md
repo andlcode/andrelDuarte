@@ -9,7 +9,7 @@
 
 ### About me
 
-I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Programming, Innovation, Business Networking, 
+I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Programming, Innovation, Business Networking, <br>
 Linux System (I LOVE UBUNTU), Star Wars.
 
 ### Technologies
