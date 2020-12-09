@@ -15,6 +15,9 @@ Linux System (I LOVE UBUNTU), Star Wars.
 ### Technologies
 HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
 
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = andrelDuarte & langs_count = 8 )] (https://github.com/andrelDuarte)
+
+
 ![andrelDuarte github stats](https://github-readme-stats.vercel.app/api?username=andrelDuarte&show_icons=true&theme=radical)
 
 <details align="left">
