@@ -1,4 +1,4 @@
-# Hey, I'm Andre Luiz! :D
+# Hey, I'm Andre Luiz! :rocket:  :heart: 	smiley :smiley:	smiley :smiley:	smiley :smiley:
 
 ### You can find in me in the web earth_africa
 
