@@ -9,8 +9,8 @@
 
 ### About me
 
-I'm a Full-Stack developer {backend, frontend, mobile} with a passion for programming, innovation, business networking, 
-linux system (I LOVE UBUNTU), Star Wars.
+I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Programming, Innovation, Business Networking, 
+Linux System (I LOVE UBUNTU), Star Wars.
 
 ### Technologies
 HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
