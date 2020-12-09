@@ -13,6 +13,8 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Progra
 Linux System (I LOVE UBUNTU) and Star Wars.
 <br>
 
+
+
 ### Technologies
 <ul>
   <li>HTML5</li>
@@ -26,7 +28,10 @@ Linux System (I LOVE UBUNTU) and Star Wars.
   <li>Java</li>
 </ul>
 <br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelDuarte&layout=compact)](https://github.com/andrelDuarte)
+
 
 
 
