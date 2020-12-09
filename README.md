@@ -1,4 +1,4 @@
-# Hey, I'm Andre Luiz! :rocket:  :heart: 	 :smiley:	 :smiley:	 :smiley:
+# Hey, I'm Andre Luiz! :rocket:  :heart: 	 
 
 ### You can find in me in the web earth_africa
 
@@ -18,8 +18,8 @@ HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
 ![andrelDuarte github stats](https://github-readme-stats.vercel.app/api?username=andrelDuarte&show_icons=true&theme=radical)
 
 <details align="left">
-  <summary>GitHub Trophies 🏆</summary>
- I'm currently
+  <summary>I'm currently 🏆</summary>
+ 
   </details>
   
   
