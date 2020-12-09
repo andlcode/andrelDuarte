@@ -1,4 +1,4 @@
-# Hey, I'm Andre Luiz! :rocket:  :heart: 	smiley :smiley:	smiley :smiley:	smiley :smiley:
+# Hey, I'm Andre Luiz! :rocket:  :heart: 	 :smiley:	 :smiley:	 :smiley:
 
 ### You can find in me in the web earth_africa
 
@@ -19,7 +19,7 @@ HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, React, React Native, Java.
 
 <details align="left">
   <summary>GitHub Trophies 🏆</summary>
-  nfsdhf
+ I'm currently
   </details>
   
   
