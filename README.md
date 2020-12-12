@@ -17,19 +17,8 @@ I am a veteran of the undergraduate course in Computer Science. I love what I st
 
 
 
-### Technologies
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Javascript</li>
-  <li>ES6</li>
-  <li>Typescript</li>
-  <li>NodeJS</li>
-  <li>ReactJS</li>
-  <li>React Native</li>
-  <li>Java</li>
-</ul>
-<br>
+Technologies: HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, ReactJS, React Native, Java.
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelDuarte&layout=compact)](https://github.com/andrelDuarte)
