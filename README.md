@@ -41,8 +41,7 @@ I am a veteran of the undergraduate course in Computer Science. I love what I st
 ![andrelDuarte github stats](https://github-readme-stats.vercel.app/api?username=andrelDuarte&show_icons=true&theme=radical)
 
 <details align="left">
-  <summary>I'm currently 🏆</summary>
- 
+  <summary>🏆</summary>
   </details>
   
   Made with :heart: and JavaScript.
