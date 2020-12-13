@@ -10,10 +10,9 @@
 ### About me
 
 I'm a Full-Stack developer {backend, frontend, mobile} with a passion for Programming, Innovation, Business Networking, <br>
-Linux System (I LOVE UBUNTU) and Star Wars.
+Linux System and Star Wars.
 <br><br>
-I am a veteran of the undergraduate course in Computer Science. I love what I study.
-<br>
+
 
 
 
