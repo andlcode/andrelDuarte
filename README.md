@@ -17,7 +17,7 @@ I am a veteran of the undergraduate course in Computer Science. I love what I st
 
 
 
-<h3> Technologies:</h3><br> HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, ReactJS, React Native, Java.
+<h3> Technologies:</h3> HTML5, CSS3, Javascript, ES6, Typescript, NodeJS, ReactJS, React Native, Java.
 
 
 
