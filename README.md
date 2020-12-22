@@ -9,7 +9,7 @@
 
 ### About me
 
-I'm a Full-Stack developer {backend, frontend, mobile} with a passion for programming and technology. I currently have experience with IT governance with technical knowledge about Linux Systems.
+I'm a Full-Stack developer {backend, frontend, mobile} with a passion for programming and technology. I currently have experience with IT Governance with technical knowledge about Linux Systems.
 <br><br>
 
 
