@@ -79,7 +79,6 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 
 </details>
 </details>
-#### Thank you! 👋
 
   Made with :heart: and JavaScript.
   Thanks! :heart:
