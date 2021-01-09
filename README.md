@@ -1,4 +1,4 @@
-# Hey, I'm Andre Luiz! :rocket:  :heart: 	 
+# Hey, I'm Andre Luiz! :rocket: <img src="assets/hi.gif" width="22px">  :heart: 	 
 
 ### You can find in me in the web :earth_africa:
 
@@ -54,7 +54,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white)
-![php](https://img.shields.io/badge/-php-000000?style=flat-square&logo=ruby&logoColor=white)
+![php](https://img.shields.io/badge/-php-000000?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![Spring Boot](https://img.shields.io/badge/-Spring-199F3A?style=flat-square&logo=Spring&logoColor=white)
@@ -79,6 +79,10 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 
 </details>
 </details>
+
+
+
+<br><br>
 #### Thank you! 👋
 
   Made with :heart: and JavaScript.
