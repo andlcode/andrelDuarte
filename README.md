@@ -23,7 +23,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
     age: 24,
     birthday: '23/09',
     city: 'Rio de Janeiro, RJ',
-    stack: ['ReactJS', 'React Native', 'Java', 'Spring', 'JPA/Hibernate', 'PHP/Laravel', '(My|Postgre)SQL'],
+    stack: ['JavaScript', 'NodeJS', 'ReactJS', 'React Native', 'Java', 'Spring', 'JPA/Hibernate', 'PHP/Laravel', '(My|Postgre)SQL'],
     hobby: 'I love to play game, watch anime, series and play the piano and guitar'
   });
 
