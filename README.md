@@ -68,6 +68,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-199F3A?style=flat-square&logo=Spring&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
@@ -80,7 +81,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/-Spring-199F3A?style=flat-square&logo=Spring&logoColor=white)
 
 </details>
 <br><br>
