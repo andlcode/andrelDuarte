@@ -48,8 +48,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 🎵 I like listening to music while coding
 🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...</summary>
   </details>
-
-
+</details>
 ## Some Technologies
 
 <hr>
@@ -81,7 +80,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
 
-</details>
+
 </details>
 <br><br>
   Made with :heart: and JavaScript.
