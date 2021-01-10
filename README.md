@@ -35,7 +35,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 
 
 <details>
-  <summary> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
+  <summary> <b> Want to know more about me?  <i>(Click here to expand)</i>  </b></summary>
   <br>
 
 ![andrelDuarte github stats](https://github-readme-stats.vercel.app/api?username=andrelDuarte&show_icons=true&theme=radical)
@@ -44,10 +44,10 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 
 <details align="left">
   <summary>More about me</summary>
-🏆 Currently learning ReactJS
-😄 Also a software engineering student
-🎵 I like listening to music while coding
-🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...</summary> <i>(Click here to expand)</i>
+🏆 Currently learning ReactJS<br>
+😄 Also a software engineering student<br>
+🎵 I like listening to music while coding<br>
+🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...<br></summary> 
   
 </details>
 ## Some Technologies
