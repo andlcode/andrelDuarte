@@ -43,12 +43,12 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 <br><br>
 
 <details align="left">
-  <summary>
+  <summary>More about me</summary>
 🏆 Currently learning ReactJS
 😄 Also a software engineering student
 🎵 I like listening to music while coding
-🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...</summary>
-  </summary>
+🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...</summary> <i>(Click here to expand)</i>
+  
 </details>
 ## Some Technologies
 
