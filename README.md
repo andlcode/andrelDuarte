@@ -1,4 +1,4 @@
-# Hey, I'm Andre Luiz! :rocket: <img src="assets/hi.gif" width="22px">  :heart: 	 
+# Hello World, i'm Andre Luiz! :rocket: <img src="assets/hi.gif" width="22px">  :heart: 	 
 
 ### You can find in me in the web :earth_africa:
 
