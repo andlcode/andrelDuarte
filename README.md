@@ -50,6 +50,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 🎸 I like to read futuristic books or play guitar with my friends when I'm not coding...<br></summary> 
   
 </details>
+
 ## Some Technologies
 
 <hr>
