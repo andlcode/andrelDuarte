@@ -52,20 +52,44 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 </details>
 
 ## Some Technologies
-
 <hr>
+
+
+#### 🎨 Design: <br/>
+
+
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white)
+
+
+
+#### 💬 Languages: <br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/-php-000000?style=flat-square&logo=php&logoColor=white)
+
+
+
+#### 🔨 Frameworks: <br/>
+
+
 ![React](https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![Spring Boot](https://img.shields.io/badge/-Spring-199F3A?style=flat-square&logo=Spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F34E39?style=flat-square&logo=Laravel&logoColor=white)
+
+
+#### 📦 Databases: <br/>
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+
+#### 🔧 Tools <br/>
+
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -77,12 +101,9 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring-199F3A?style=flat-square&logo=Spring&logoColor=white)
 
 </details>
 <br><br>
