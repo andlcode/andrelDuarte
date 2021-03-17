@@ -103,7 +103,7 @@ I'm a Full-Stack developer {backend, frontend, mobile} with a passion for progra
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
+
 
 </details>
 <br><br>
