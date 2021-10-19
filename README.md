@@ -1,4 +1,4 @@
-# Hello there, Weslcome to my profile! :rocket: <img src="assets/hi.gif" width="22px">  :heart: 	 
+# Hello there, Welcome to my profile! :rocket: <img src="assets/hi.gif" width="22px">  :heart: 	 
 
 ### You can find in me in the web :earth_africa:
 
