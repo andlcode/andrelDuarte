@@ -4,7 +4,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/andrelduarte/)](https://www.linkedin.com/in/andrelduarte/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=http://wa.me/5521971819905)](http://wa.me/5521971819905)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=http://wa.me/5521971819905)](http://wa.me/5521980143833)
 [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&logoColor=white&color=black&link=https://sourcerer.io/andrelduarte)](https://sourcerer.io/andrelduarte)
 [![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&color=black&&logoColor=white&link=mailto:and969696@outlook.com)](mailto:and969696@outlook.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&color=black&logoColor=white&link=https://twitter.com/AndrelDuarte10)](https://twitter.com/AndrelDuarte10)
